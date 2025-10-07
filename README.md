@@ -2,6 +2,7 @@
 
 This project demonstrates the design and configuration of a **Home IoT Network** integrated with an **IoT Server**, enabling centralized control and monitoring of smart home devices. The network is built and simulated in **Cisco Packet Tracer**, illustrating how IoT devices communicate within a secure home network and connect to a remote IoT server for management and automation.
 
+![Network Diagram](https://github.com/PremRai345/Home-IoT-Network-Project/blob/2059593a890d8d4ff63d4d6793bbff51c73dc762/Home%20IOT%20Network.png)
 
 
 ## 🧩 Network Topology
@@ -58,14 +59,9 @@ This project demonstrates the design and configuration of a **Home IoT Network**
 - Demonstrated **IoT device integration and server control**  
 - Applied **routing and network segmentation** best practices
     
-![Network Diagram](Home IOT Network.png)
 
 ## 🚀 Future Enhancements
 
 - Add **cloud connectivity** for remote access  
 - Implement **automation scripts** for IoT event triggers  
 - Integrate **additional sensors** (motion, smoke, smart meter, etc.)  
-
-
-
-
