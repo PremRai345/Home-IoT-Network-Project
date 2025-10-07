@@ -58,7 +58,7 @@ This project demonstrates the design and configuration of a **Home IoT Network**
 - Demonstrated **IoT device integration and server control**  
 - Applied **routing and network segmentation** best practices
     
-![Network Diagram](Home%20IOT%20Network.png)
+![Network Diagram](Home IOT Network.png)
 
 ## 🚀 Future Enhancements
 
