@@ -11,7 +11,7 @@ This project demonstrates the design and configuration of a Home IoT Network int
    .SSID: Prem – WPA2 secured for home users and IoT devices.
    
   Devices include:
-   .Webcam Camera
+   .Webcam Camera  
    .Air Conditioner
    .Fan
    .Lamp
