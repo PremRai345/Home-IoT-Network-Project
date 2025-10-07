@@ -2,7 +2,7 @@
 This project demonstrates the design and configuration of a Home IoT Network integrated with an IoT Server, enabling centralized control and monitoring of smart home devices. The network is built and simulated in Cisco Packet Tracer, illustrating how IoT devices communicate within a secure home network and connect to a remote IoT server for management and automation.  
 # Network Topology
 1. The network consists of two main segments:
-   Home Network:
+   Home Network:  
    Uses DHCP to dynamically assign IP addresses to home devices.
    Contains multiple IoT and traditional devices connected through a Home Router.
    
